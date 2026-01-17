@@ -1,0 +1,5 @@
+hello world
+hello machine learning
+hello lstm
+lstm learns sequences
+machine learning is fun
