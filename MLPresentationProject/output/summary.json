@@ -1,0 +1,38 @@
+{
+  "total": 226664.56,
+  "transactions": 123,
+  "current_month": "2026-08",
+  "by_category": {
+    "Shopping": 70214.57,
+    "Groceries": 38931.11,
+    "Food & Dining": 31073.82,
+    "Travel": 24273.9,
+    "Rent": 24206.85,
+    "Utilities": 12988.56,
+    "Transport": 8272.33,
+    "Entertainment": 7595.02,
+    "Stationery": 5222.51,
+    "Subscriptions": 2747.0,
+    "Health": 1138.89
+  },
+  "top_merchants": {
+    "Amazon": 51120.66,
+    "MakeMyTrip": 18731.89,
+    "Hostel Rent": 16000.0,
+    "BigBasket": 12289.78,
+    "Whole Foods": 10105.49
+  },
+  "budgets": {
+    "Groceries": 8000,
+    "Food & Dining": 5000,
+    "Transport": 3000,
+    "Utilities": 4000,
+    "Shopping": 5000,
+    "Entertainment": 2000,
+    "Health": 2000,
+    "Subscriptions": 1500,
+    "Travel": 6000,
+    "Rent": 20000,
+    "Stationery": 1000
+  }
+}

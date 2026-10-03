@@ -1,0 +1,251 @@
+merchant,description,amount,date,text,day_of_week,category,is_outlier
+Hostel Rent,Hostel Rent TXN-51850,37500.0,2026-07-27,hostel rent hostel rent txn-51850,0,Rent,False
+Cult.fit,Cult.fit,783.73,2026-07-19,cult.fit cult.fit,6,Health,False
+Spotify,Spotify,977.94,2026-07-18,spotify spotify,5,Entertainment,False
+IRCTC,IRCTC,6061.43,2026-07-30,irctc irctc,3,Travel,False
+DMart,DMart PAYMENT 7847,2668.86,2026-08-03,dmart dmart payment 7847,0,Groceries,False
+Rapido,Rapido TXN-82757,363.86,2026-07-20,rapido rapido txn-82757,0,Transport,False
+Monthly Rent,Monthly Rent ORDER-75742,18599.31,2026-08-16,monthly rent monthly rent order-75742,6,Rent,False
+Nykaa,Nykaa TXN-6205,1913.16,2026-07-18,nykaa nykaa txn-6205,5,Shopping,False
+Local Restaurant,Local Restaurant,1739.3,2026-07-21,local restaurant local restaurant,1,Food & Dining,False
+McDonalds,McDonalds *40533,666.44,2026-07-20,mcdonalds mcdonalds *40533,0,Food & Dining,False
+IRCTC,IRCTC TXN-13607,16181.21,2026-08-07,irctc irctc txn-13607,4,Travel,False
+Water Utility,Water Utility,647.57,2026-08-06,water utility water utility,3,Utilities,False
+Spotify,Spotify,386.78,2026-08-08,spotify spotify,5,Subscriptions,False
+Hostel Rent,Hostel Rent PAYMENT 89281,8000.0,2026-07-23,hostel rent hostel rent payment 89281,3,Rent,False
+Myntra,Myntra REF#61127,2682.56,2026-08-10,myntra myntra ref#61127,0,Shopping,False
+Netflix,Netflix,414.16,2026-07-31,netflix netflix,4,Subscriptions,False
+Steam,Steam,472.06,2026-07-22,steam steam,2,Entertainment,False
+Airbnb,Airbnb *64995,4668.12,2026-07-26,airbnb airbnb *64995,6,Travel,False
+YouTube Premium,YouTube Premium PAYMENT 37840,323.08,2026-08-09,youtube premium youtube premium payment 37840,6,Subscriptions,False
+Gas Cylinder,Gas Cylinder ORDER-67200,1228.3,2026-07-19,gas cylinder gas cylinder order-67200,6,Utilities,False
+Flipkart,Flipkart REF#20020,1668.79,2026-08-10,flipkart flipkart ref#20020,0,Shopping,False
+Indigo Airlines,Indigo Airlines,9704.71,2026-07-30,indigo airlines indigo airlines,3,Travel,False
+Airbnb,Airbnb,10314.86,2026-08-03,airbnb airbnb,0,Travel,False
+Swiggy,Swiggy *65200,670.43,2026-07-28,swiggy swiggy *65200,1,Food & Dining,False
+Amazon,Amazon ORDER-12367,2182.0,2026-07-31,amazon amazon order-12367,4,Shopping,False
+Dominos,Dominos,781.43,2026-08-01,dominos dominos,5,Food & Dining,False
+Hostel Rent,Hostel Rent INV-40680,20634.19,2026-08-09,hostel rent hostel rent inv-40680,6,Rent,False
+OYO,OYO PAYMENT 37402,4926.1,2026-08-07,oyo oyo payment 37402,4,Travel,False
+Airbnb,Airbnb,9953.52,2026-08-14,airbnb airbnb,4,Travel,False
+Myntra,Myntra REF#22126,1781.69,2026-07-31,myntra myntra ref#22126,4,Shopping,False
+Metro Card,Metro Card ORDER-28700,162.67,2026-08-01,metro card metro card order-28700,5,Transport,False
+Water Utility,Water Utility,1675.55,2026-07-21,water utility water utility,1,Utilities,False
+Monthly Rent,Monthly Rent,14273.3,2026-08-15,monthly rent monthly rent,5,Rent,False
+BigBasket,BigBasket *36516,1415.33,2026-07-29,bigbasket bigbasket *36516,2,Groceries,False
+PG Rent,PG Rent,14317.11,2026-08-12,pg rent pg rent,2,Rent,False
+IRCTC,IRCTC REF#89585,6863.0,2026-07-30,irctc irctc ref#89585,3,Travel,False
+Spotify,Spotify,690.05,2026-08-16,spotify spotify,6,Entertainment,False
+Amazon,Amazon,2996.49,2026-07-21,amazon amazon,1,Shopping,False
+Cult.fit,Cult.fit,612.77,2026-08-01,cult.fit cult.fit,5,Health,False
+Apollo Pharmacy,Apollo Pharmacy TXN-55012,609.21,2026-07-17,apollo pharmacy apollo pharmacy txn-55012,4,Health,False
+BookMyShow,BookMyShow *41861,2250.0,2026-08-05,bookmyshow bookmyshow *41861,2,Entertainment,False
+PG Rent,PG Rent *81049,13259.13,2026-08-08,pg rent pg rent *81049,5,Rent,False
+Dominos,Dominos ORDER-59953,1483.03,2026-08-09,dominos dominos order-59953,6,Food & Dining,False
+PG Rent,PG Rent,11476.27,2026-08-10,pg rent pg rent,0,Rent,False
+YouTube Premium,YouTube Premium PAYMENT 13670,727.77,2026-07-29,youtube premium youtube premium payment 13670,2,Subscriptions,False
+Reliance Fresh,Reliance Fresh,920.91,2026-07-29,reliance fresh reliance fresh,2,Groceries,False
+Amazon,Amazon,2339.61,2026-07-23,amazon amazon,3,Shopping,False
+Metro Card,Metro Card,514.29,2026-08-05,metro card metro card,2,Transport,False
+Amazon Prime,Amazon Prime *13399,238.91,2026-07-21,amazon prime amazon prime *13399,1,Subscriptions,False
+Cult.fit,Cult.fit ORDER-9316,692.06,2026-08-05,cult.fit cult.fit order-9316,2,Health,False
+Practo,Practo PAYMENT 19570,1489.37,2026-08-05,practo practo payment 19570,2,Health,False
+MedPlus,MedPlus,973.3,2026-08-16,medplus medplus,6,Health,False
+Swiggy,Swiggy ORDER-64072,336.94,2026-07-20,swiggy swiggy order-64072,0,Food & Dining,False
+Practo,Practo,1664.02,2026-07-31,practo practo,4,Health,False
+BookMyShow,BookMyShow,1398.78,2026-07-21,bookmyshow bookmyshow,1,Entertainment,False
+Uber,Uber,592.22,2026-07-25,uber uber,5,Transport,False
+Gas Cylinder,Gas Cylinder,3750.0,2026-07-17,gas cylinder gas cylinder,4,Utilities,False
+Flipkart,Flipkart *3644,3822.06,2026-08-08,flipkart flipkart *3644,5,Shopping,False
+Steam,Steam INV-12028,559.44,2026-07-26,steam steam inv-12028,6,Entertainment,False
+BSNL Broadband,BSNL Broadband *48164,1343.27,2026-07-25,bsnl broadband bsnl broadband *48164,5,Utilities,False
+H&M,H&M TXN-69907,2407.68,2026-07-28,h&m h&m txn-69907,1,Shopping,False
+H&M,H&M,1922.79,2026-08-02,h&m h&m,6,Shopping,False
+Spotify,Spotify TXN-31477,1279.77,2026-08-11,spotify spotify txn-31477,1,Entertainment,False
+Monthly Rent,Monthly Rent TXN-26303,10754.13,2026-08-09,monthly rent monthly rent txn-26303,6,Rent,False
+Netflix,Netflix INV-3898,464.43,2026-07-28,netflix netflix inv-3898,1,Entertainment,False
+Water Utility,Water Utility,1161.36,2026-08-11,water utility water utility,1,Utilities,False
+Whole Foods,Whole Foods *45225,948.67,2026-08-08,whole foods whole foods *45225,5,Groceries,False
+Indigo Airlines,Indigo Airlines INV-45912,2646.43,2026-08-15,indigo airlines indigo airlines inv-45912,5,Travel,False
+Nykaa,Nykaa,2841.77,2026-07-28,nykaa nykaa,1,Shopping,False
+Monthly Rent,Monthly Rent,22875.88,2026-08-01,monthly rent monthly rent,5,Rent,False
+Reliance Fresh,Reliance Fresh *350,552.11,2026-08-05,reliance fresh reliance fresh *350,2,Groceries,False
+DMart,DMart,3352.13,2026-08-06,dmart dmart,3,Groceries,False
+Nykaa,Nykaa ORDER-51026,1919.4,2026-08-07,nykaa nykaa order-51026,4,Shopping,False
+Reliance Fresh,Reliance Fresh TXN-62756,558.23,2026-08-10,reliance fresh reliance fresh txn-62756,0,Groceries,False
+PVR Cinemas,PVR Cinemas,838.5,2026-07-30,pvr cinemas pvr cinemas,3,Entertainment,False
+OYO,OYO INV-51983,8962.25,2026-08-16,oyo oyo inv-51983,6,Travel,False
+Nykaa,Nykaa,2179.25,2026-08-09,nykaa nykaa,6,Shopping,False
+Cult.fit,Cult.fit ORDER-19911,1563.75,2026-07-21,cult.fit cult.fit order-19911,1,Health,False
+Hostel Rent,Hostel Rent INV-19259,17919.17,2026-07-31,hostel rent hostel rent inv-19259,4,Rent,False
+Uber,Uber PAYMENT 86249,221.07,2026-08-05,uber uber payment 86249,2,Transport,False
+PVR Cinemas,PVR Cinemas,1181.61,2026-07-21,pvr cinemas pvr cinemas,1,Entertainment,False
+iCloud,iCloud,217.97,2026-07-17,icloud icloud,4,Subscriptions,False
+Metro Card,Metro Card TXN-56960,498.89,2026-08-09,metro card metro card txn-56960,6,Transport,False
+BigBasket,BigBasket,1612.76,2026-07-23,bigbasket bigbasket,3,Groceries,False
+Gas Cylinder,Gas Cylinder *31627,2022.02,2026-07-26,gas cylinder gas cylinder *31627,6,Utilities,False
+Hostel Rent,Hostel Rent REF#71449,8531.96,2026-07-27,hostel rent hostel rent ref#71449,0,Rent,False
+Netflix,Netflix,847.2,2026-07-21,netflix netflix,1,Entertainment,False
+DMart,DMart INV-76560,1392.8,2026-07-31,dmart dmart inv-76560,4,Groceries,False
+Hostel Rent,Hostel Rent,8158.47,2026-08-02,hostel rent hostel rent,6,Rent,False
+Ola,Ola,265.84,2026-07-21,ola ola,1,Transport,False
+Netflix,Netflix,771.38,2026-07-31,netflix netflix,4,Entertainment,False
+PG Rent,PG Rent,19767.35,2026-08-11,pg rent pg rent,1,Rent,False
+Netflix,Netflix INV-15872,674.51,2026-08-05,netflix netflix inv-15872,2,Entertainment,False
+Amazon Prime,Amazon Prime INV-68041,403.36,2026-07-27,amazon prime amazon prime inv-68041,0,Subscriptions,False
+Flipkart,Flipkart,5966.11,2026-08-01,flipkart flipkart,5,Shopping,False
+H&M,H&M REF#5631,1113.38,2026-07-23,h&m h&m ref#5631,3,Shopping,False
+BigBasket,BigBasket,3750.0,2026-08-02,bigbasket bigbasket,6,Groceries,False
+Spotify,Spotify,964.86,2026-08-14,spotify spotify,4,Entertainment,False
+Indigo Airlines,Indigo Airlines,15867.66,2026-08-02,indigo airlines indigo airlines,6,Travel,False
+Monthly Rent,Monthly Rent PAYMENT 66705,30692.1,2026-07-25,monthly rent monthly rent payment 66705,5,Rent,False
+Nykaa,Nykaa *32560,4253.39,2026-08-01,nykaa nykaa *32560,5,Shopping,False
+Dominos,Dominos REF#73436,381.17,2026-08-14,dominos dominos ref#73436,4,Food & Dining,False
+Amazon Prime,Amazon Prime PAYMENT 18074,170.81,2026-07-23,amazon prime amazon prime payment 18074,3,Subscriptions,False
+Whole Foods,Whole Foods,819.01,2026-07-29,whole foods whole foods,2,Groceries,False
+Nykaa,Nykaa,1275.49,2026-07-24,nykaa nykaa,4,Shopping,False
+Practo,Practo ORDER-20343,986.33,2026-07-26,practo practo order-20343,6,Health,False
+Whole Foods,Whole Foods,544.94,2026-08-06,whole foods whole foods,3,Groceries,False
+IndianOil Petrol,IndianOil Petrol,261.15,2026-08-14,indianoil petrol indianoil petrol,4,Transport,False
+IRCTC,IRCTC ORDER-52300,4924.51,2026-08-16,irctc irctc order-52300,6,Travel,False
+Hostel Rent,Hostel Rent,11849.61,2026-07-22,hostel rent hostel rent,2,Rent,False
+Spotify,Spotify,523.51,2026-07-30,spotify spotify,3,Subscriptions,False
+iCloud,iCloud,509.16,2026-07-23,icloud icloud,3,Subscriptions,False
+Monthly Rent,Monthly Rent ORDER-44399,14535.66,2026-07-28,monthly rent monthly rent order-44399,1,Rent,False
+Nykaa,Nykaa,1472.27,2026-07-31,nykaa nykaa,4,Shopping,False
+Electricity Board,Electricity Board *38825,727.78,2026-08-02,electricity board electricity board *38825,6,Utilities,False
+Spotify,Spotify ORDER-30057,1099.81,2026-07-19,spotify spotify order-30057,6,Entertainment,False
+iCloud,iCloud,288.57,2026-07-20,icloud icloud,0,Subscriptions,False
+Apollo Pharmacy,Apollo Pharmacy TXN-35547,905.65,2026-08-14,apollo pharmacy apollo pharmacy txn-35547,4,Health,False
+MakeMyTrip,MakeMyTrip PAYMENT 88701,8190.49,2026-08-12,makemytrip makemytrip payment 88701,2,Travel,False
+OYO,OYO PAYMENT 19677,11723.72,2026-07-25,oyo oyo payment 19677,5,Travel,False
+Monthly Rent,Monthly Rent *64929,15633.83,2026-08-02,monthly rent monthly rent *64929,6,Rent,False
+Airbnb,Airbnb REF#7640,5441.78,2026-07-19,airbnb airbnb ref#7640,6,Travel,False
+H&M,H&M,1635.7,2026-07-22,h&m h&m,2,Shopping,False
+Hostel Rent,Hostel Rent INV-11708,30185.16,2026-07-17,hostel rent hostel rent inv-11708,4,Rent,False
+Reliance Fresh,Reliance Fresh,493.71,2026-07-19,reliance fresh reliance fresh,6,Groceries,False
+Ola,Ola,111.91,2026-08-13,ola ola,3,Transport,False
+Zomato,Zomato PAYMENT 35208,994.22,2026-08-03,zomato zomato payment 35208,0,Food & Dining,False
+Hostel Rent,Hostel Rent,13428.46,2026-07-18,hostel rent hostel rent,5,Rent,False
+Zomato,Zomato,1783.06,2026-07-20,zomato zomato,0,Food & Dining,False
+Water Utility,Water Utility,2565.93,2026-07-23,water utility water utility,3,Utilities,False
+Gas Cylinder,Gas Cylinder TXN-38105,853.47,2026-08-10,gas cylinder gas cylinder txn-38105,0,Utilities,False
+MakeMyTrip,MakeMyTrip,6829.21,2026-08-07,makemytrip makemytrip,4,Travel,False
+Hostel Rent,Hostel Rent,16307.62,2026-07-17,hostel rent hostel rent,4,Rent,False
+Zomato,Zomato *72327,381.98,2026-08-09,zomato zomato *72327,6,Food & Dining,False
+More Supermarket,More Supermarket PAYMENT 32301,645.94,2026-08-02,more supermarket more supermarket payment 32301,6,Groceries,False
+Metro Card,Metro Card INV-85310,285.29,2026-07-20,metro card metro card inv-85310,0,Transport,False
+Rapido,Rapido *51622,875.61,2026-08-01,rapido rapido *51622,5,Transport,False
+Dominos,Dominos INV-28304,1114.22,2026-07-26,dominos dominos inv-28304,6,Food & Dining,False
+Hostel Rent,Hostel Rent TXN-92731,13770.17,2026-07-27,hostel rent hostel rent txn-92731,0,Rent,False
+OYO,OYO PAYMENT 45654,4935.53,2026-07-21,oyo oyo payment 45654,1,Travel,False
+YouTube Premium,YouTube Premium,129.21,2026-08-12,youtube premium youtube premium,2,Subscriptions,False
+Netflix,Netflix,535.68,2026-08-09,netflix netflix,6,Entertainment,False
+MakeMyTrip,MakeMyTrip INV-50022,7349.66,2026-07-19,makemytrip makemytrip inv-50022,6,Travel,False
+PG Rent,PG Rent,33886.9,2026-08-07,pg rent pg rent,4,Rent,False
+BSNL Broadband,BSNL Broadband,1116.79,2026-07-26,bsnl broadband bsnl broadband,6,Utilities,False
+iCloud,iCloud,770.73,2026-07-25,icloud icloud,5,Subscriptions,False
+BigBasket,BigBasket,2176.7,2026-08-16,bigbasket bigbasket,6,Groceries,False
+Metro Card,Metro Card,179.17,2026-07-18,metro card metro card,5,Transport,False
+Dominos,Dominos,331.89,2026-07-17,dominos dominos,4,Food & Dining,False
+Steam,Steam,703.68,2026-07-25,steam steam,5,Entertainment,False
+Spotify,Spotify,1012.54,2026-08-02,spotify spotify,6,Entertainment,False
+iCloud,iCloud TXN-52464,632.28,2026-07-19,icloud icloud txn-52464,6,Subscriptions,False
+Gym Membership,Gym Membership,808.45,2026-07-29,gym membership gym membership,2,Health,False
+Jio Recharge,Jio Recharge ORDER-76853,1815.56,2026-07-24,jio recharge jio recharge order-76853,4,Utilities,False
+Dominos,Dominos TXN-86285,250.0,2026-08-13,dominos dominos txn-86285,3,Food & Dining,False
+PG Rent,PG Rent *51154,16703.77,2026-08-11,pg rent pg rent *51154,1,Rent,False
+Ola,Ola,275.35,2026-08-09,ola ola,6,Transport,False
+Practo,Practo,2260.49,2026-08-05,practo practo,2,Health,False
+Spotify,Spotify INV-67337,303.26,2026-08-12,spotify spotify inv-67337,2,Subscriptions,False
+Swiggy,Swiggy,1249.56,2026-08-09,swiggy swiggy,6,Food & Dining,False
+Flipkart,Flipkart *74611,3422.9,2026-08-02,flipkart flipkart *74611,6,Shopping,False
+Rapido,Rapido ORDER-90077,253.63,2026-08-11,rapido rapido order-90077,1,Transport,False
+OYO,OYO INV-89608,10970.91,2026-08-14,oyo oyo inv-89608,4,Travel,False
+PVR Cinemas,PVR Cinemas,460.19,2026-08-06,pvr cinemas pvr cinemas,3,Entertainment,False
+YouTube Premium,YouTube Premium INV-47378,360.77,2026-07-21,youtube premium youtube premium inv-47378,1,Subscriptions,False
+Hostel Rent,Hostel Rent,30681.82,2026-07-29,hostel rent hostel rent,2,Rent,False
+Dominos,Dominos INV-69757,817.9,2026-07-17,dominos dominos inv-69757,4,Food & Dining,False
+H&M,H&M REF#534,3657.09,2026-08-01,h&m h&m ref#534,5,Shopping,False
+Water Utility,Water Utility INV-66025,1712.22,2026-07-19,water utility water utility inv-66025,6,Utilities,False
+Cafe Coffee Day,Cafe Coffee Day,581.98,2026-07-19,cafe coffee day cafe coffee day,6,Food & Dining,False
+Amazon Prime,Amazon Prime PAYMENT 33155,442.59,2026-08-09,amazon prime amazon prime payment 33155,6,Subscriptions,False
+IndianOil Petrol,IndianOil Petrol REF#30873,900.0,2026-08-13,indianoil petrol indianoil petrol ref#30873,3,Transport,False
+H&M,H&M TXN-97070,2554.12,2026-07-23,h&m h&m txn-97070,3,Shopping,False
+BigBasket,BigBasket,1063.5,2026-07-31,bigbasket bigbasket,4,Groceries,False
+Netflix,Netflix INV-37759,319.71,2026-08-15,netflix netflix inv-37759,5,Entertainment,False
+MedPlus,MedPlus,1348.06,2026-08-05,medplus medplus,2,Health,False
+Reliance Fresh,Reliance Fresh,813.16,2026-08-05,reliance fresh reliance fresh,2,Groceries,False
+Cult.fit,Cult.fit INV-40000,1244.87,2026-08-09,cult.fit cult.fit inv-40000,6,Health,False
+Airbnb,Airbnb,12115.98,2026-07-21,airbnb airbnb,1,Travel,False
+Indigo Airlines,Indigo Airlines INV-13144,4296.77,2026-07-25,indigo airlines indigo airlines inv-13144,5,Travel,False
+PG Rent,PG Rent PAYMENT 38223,9061.47,2026-08-07,pg rent pg rent payment 38223,4,Rent,False
+Cult.fit,Cult.fit PAYMENT 61166,890.43,2026-07-26,cult.fit cult.fit payment 61166,6,Health,False
+iCloud,iCloud,773.37,2026-07-20,icloud icloud,0,Subscriptions,False
+MakeMyTrip,MakeMyTrip,3500.34,2026-07-19,makemytrip makemytrip,6,Travel,False
+OYO,OYO *59010,3792.75,2026-07-19,oyo oyo *59010,6,Travel,False
+Uber,Uber,306.84,2026-07-29,uber uber,2,Transport,False
+Swiggy,Swiggy TXN-98074,701.13,2026-07-19,swiggy swiggy txn-98074,6,Food & Dining,False
+Amazon,Amazon REF#17480,2801.2,2026-08-16,amazon amazon ref#17480,6,Shopping,False
+Ola,Ola *36743,511.45,2026-08-06,ola ola *36743,3,Transport,False
+Spotify,Spotify REF#30427,1435.7,2026-08-08,spotify spotify ref#30427,5,Entertainment,False
+Monthly Rent,Monthly Rent,17785.63,2026-08-14,monthly rent monthly rent,4,Rent,False
+Hostel Rent,Hostel Rent PAYMENT 89437,15978.35,2026-07-17,hostel rent hostel rent payment 89437,4,Rent,False
+Uber,Uber INV-18542,583.09,2026-07-26,uber uber inv-18542,6,Transport,False
+BSNL Broadband,BSNL Broadband REF#15947,852.54,2026-07-29,bsnl broadband bsnl broadband ref#15947,2,Utilities,False
+Swiggy,Swiggy,1800.0,2026-07-17,swiggy swiggy,4,Food & Dining,False
+Local Restaurant,Local Restaurant ORDER-25756,1100.11,2026-07-29,local restaurant local restaurant order-25756,2,Food & Dining,False
+BigBasket,BigBasket,1357.08,2026-08-14,bigbasket bigbasket,4,Groceries,False
+Flipkart,Flipkart PAYMENT 51239,3486.71,2026-07-19,flipkart flipkart payment 51239,6,Shopping,False
+Steam,Steam ORDER-47378,2250.0,2026-08-04,steam steam order-47378,1,Entertainment,False
+MakeMyTrip,MakeMyTrip,6565.76,2026-08-10,makemytrip makemytrip,0,Travel,False
+Cult.fit,Cult.fit INV-37537,1065.68,2026-07-18,cult.fit cult.fit inv-37537,5,Health,False
+H&M,H&M TXN-34929,1920.47,2026-07-21,h&m h&m txn-34929,1,Shopping,False
+IndianOil Petrol,IndianOil Petrol TXN-49035,411.58,2026-07-27,indianoil petrol indianoil petrol txn-49035,0,Transport,False
+Uber,Uber ORDER-99931,234.66,2026-07-30,uber uber order-99931,3,Transport,False
+Amazon Prime,Amazon Prime,608.43,2026-08-15,amazon prime amazon prime,5,Subscriptions,False
+Electricity Board,Electricity Board ORDER-96090,2249.74,2026-07-19,electricity board electricity board order-96090,6,Utilities,False
+Rapido,Rapido TXN-84574,229.0,2026-08-05,rapido rapido txn-84574,2,Transport,False
+Nykaa,Nykaa,4999.96,2026-08-01,nykaa nykaa,5,Shopping,False
+PG Rent,PG Rent,11227.79,2026-08-01,pg rent pg rent,5,Rent,False
+BigBasket,BigBasket INV-96928,638.67,2026-07-25,bigbasket bigbasket inv-96928,5,Groceries,False
+BookMyShow,BookMyShow,929.6,2026-07-25,bookmyshow bookmyshow,5,Entertainment,False
+IRCTC,IRCTC,4894.81,2026-08-01,irctc irctc,5,Travel,False
+Swiggy,Swiggy,968.27,2026-07-22,swiggy swiggy,2,Food & Dining,False
+Jio Recharge,Jio Recharge,1526.72,2026-08-02,jio recharge jio recharge,6,Utilities,False
+Local Restaurant,Local Restaurant REF#99616,1291.61,2026-08-15,local restaurant local restaurant ref#99616,5,Food & Dining,False
+Water Utility,Water Utility,2113.48,2026-07-21,water utility water utility,1,Utilities,False
+Cult.fit,Cult.fit,1539.5,2026-07-22,cult.fit cult.fit,2,Health,False
+H&M,H&M REF#33963,3390.49,2026-07-24,h&m h&m ref#33963,4,Shopping,False
+Electricity Board,Electricity Board ORDER-98359,917.7,2026-07-23,electricity board electricity board order-98359,3,Utilities,False
+Airbnb,Airbnb PAYMENT 97858,13320.04,2026-07-29,airbnb airbnb payment 97858,2,Travel,False
+iCloud,iCloud REF#44428,850.02,2026-07-29,icloud icloud ref#44428,2,Subscriptions,False
+Amazon,Amazon REF#75372,4109.42,2026-08-01,amazon amazon ref#75372,5,Shopping,False
+Netflix,Netflix INV-66081,376.91,2026-07-21,netflix netflix inv-66081,1,Entertainment,False
+Jio Recharge,Jio Recharge,1067.14,2026-08-11,jio recharge jio recharge,1,Utilities,False
+IndianOil Petrol,IndianOil Petrol PAYMENT 52496,532.36,2026-07-24,indianoil petrol indianoil petrol payment 52496,4,Transport,False
+Netflix,Netflix,566.04,2026-07-30,netflix netflix,3,Subscriptions,False
+H&M,H&M INV-62132,2018.6,2026-07-30,h&m h&m inv-62132,3,Shopping,False
+Reliance Fresh,Reliance Fresh,606.48,2026-08-01,reliance fresh reliance fresh,5,Groceries,False
+PG Rent,PG Rent *61461,11232.01,2026-08-15,pg rent pg rent *61461,5,Rent,False
+Cult.fit,Cult.fit,3000.0,2026-07-24,cult.fit cult.fit,4,Health,False
+Water Utility,Water Utility INV-14372,1070.96,2026-08-02,water utility water utility inv-14372,6,Utilities,False
+Reliance Fresh,Reliance Fresh INV-84949,646.12,2026-08-09,reliance fresh reliance fresh inv-84949,6,Groceries,False
+Gas Cylinder,Gas Cylinder PAYMENT 11241,1145.3,2026-08-14,gas cylinder gas cylinder payment 11241,4,Utilities,False
+Nykaa,Nykaa,3952.89,2026-07-18,nykaa nykaa,5,Shopping,False
+Swiggy,Swiggy ORDER-84707,674.47,2026-08-15,swiggy swiggy order-84707,5,Food & Dining,False
+Electricity Board,Electricity Board,1854.35,2026-08-16,electricity board electricity board,6,Utilities,False
+H&M,H&M PAYMENT 91664,3583.21,2026-08-06,h&m h&m payment 91664,3,Shopping,False
+Practo,Practo ORDER-39467,1934.84,2026-07-20,practo practo order-39467,0,Health,False
+Dominos,Dominos,924.66,2026-08-04,dominos dominos,1,Food & Dining,False
+Cult.fit,Cult.fit,1339.26,2026-08-11,cult.fit cult.fit,1,Health,False
+IRCTC,IRCTC PAYMENT 36617,4980.03,2026-07-26,irctc irctc payment 36617,6,Travel,False
+Zomato,Zomato TXN-62399,1154.43,2026-08-06,zomato zomato txn-62399,3,Food & Dining,False
+MakeMyTrip,MakeMyTrip TXN-3937,8499.67,2026-08-03,makemytrip makemytrip txn-3937,0,Travel,False
+Hostel Rent,Hostel Rent,9629.42,2026-08-08,hostel rent hostel rent,5,Rent,False
+PVR Cinemas,PVR Cinemas PAYMENT 88503,2250.0,2026-07-23,pvr cinemas pvr cinemas payment 88503,3,Entertainment,False
+BookMyShow,BookMyShow REF#29963,965.35,2026-07-19,bookmyshow bookmyshow ref#29963,6,Entertainment,False
+Indigo Airlines,Indigo Airlines REF#29825,7169.39,2026-08-15,indigo airlines indigo airlines ref#29825,5,Travel,False
+Dominos,Dominos REF#94253,892.62,2026-08-08,dominos dominos ref#94253,5,Food & Dining,False
+Cult.fit,Cult.fit,604.18,2026-08-07,cult.fit cult.fit,4,Health,False
+BookMyShow,BookMyShow,1283.33,2026-07-26,bookmyshow bookmyshow,6,Entertainment,False

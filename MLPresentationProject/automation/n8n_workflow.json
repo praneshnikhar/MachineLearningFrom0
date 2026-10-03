@@ -1,0 +1,48 @@
+{
+  "name": "Expense Classifier — Weekly Digest",
+  "nodes": [
+    {
+      "name": "Schedule (weekly)",
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "position": [0, 0],
+      "parameters": {
+        "rule": {
+          "interval": [
+            { "field": "days", "daysInterval": 7 }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Run Expense Pipeline",
+      "type": "n8n-nodes-base.executeCommand",
+      "position": [220, 0],
+      "parameters": {
+        "command": "cd /Users/pranesh/coding2/MachineLearningFrom0/MLPresentationProject && python -m src.pipeline"
+      }
+    },
+    {
+      "name": "Read Summary",
+      "type": "n8n-nodes-base.readWriteFile",
+      "position": [440, 0],
+      "parameters": {
+        "fileId": "/Users/pranesh/coding2/MachineLearningFrom0/MLPresentationProject/output/summary.json"
+      }
+    },
+    {
+      "name": "Slack Post",
+      "type": "n8n-nodes-base.slack",
+      "position": [660, 0],
+      "parameters": {
+        "authentication": "oAuth2",
+        "channelId": "#expenses",
+        "text": "=Weekly spend: ₹{{ $json['total'] }}"
+      }
+    }
+  ],
+  "connections": {
+    "Schedule (weekly)": { "main": [[{ "node": "Run Expense Pipeline", "type": "main", "index": 0 }]] },
+    "Run Expense Pipeline": { "main": [[{ "node": "Read Summary", "type": "main", "index": 0 }]] },
+    "Read Summary": { "main": [[{ "node": "Slack Post", "type": "main", "index": 0 }]] }
+  }
+}

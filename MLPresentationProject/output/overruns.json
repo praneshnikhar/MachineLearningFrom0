@@ -1,0 +1,74 @@
+[
+  {
+    "month": "2026-08",
+    "category": "Entertainment",
+    "spend": 3262.09,
+    "budget": 2000.0,
+    "ratio": 1.63,
+    "status": "OVER"
+  },
+  {
+    "month": "2026-08",
+    "category": "Food & Dining",
+    "spend": 18399.29,
+    "budget": 5000.0,
+    "ratio": 3.68,
+    "status": "OVER"
+  },
+  {
+    "month": "2026-08",
+    "category": "Groceries",
+    "spend": 24421.38,
+    "budget": 8000.0,
+    "ratio": 3.05,
+    "status": "OVER"
+  },
+  {
+    "month": "2026-08",
+    "category": "Shopping",
+    "spend": 56442.69,
+    "budget": 5000.0,
+    "ratio": 11.29,
+    "status": "OVER"
+  },
+  {
+    "month": "2026-08",
+    "category": "Stationery",
+    "spend": 2772.77,
+    "budget": 1000.0,
+    "ratio": 2.77,
+    "status": "OVER"
+  },
+  {
+    "month": "2026-08",
+    "category": "Subscriptions",
+    "spend": 1634.5,
+    "budget": 1500.0,
+    "ratio": 1.09,
+    "status": "OVER"
+  },
+  {
+    "month": "2026-08",
+    "category": "Transport",
+    "spend": 5283.18,
+    "budget": 3000.0,
+    "ratio": 1.76,
+    "status": "OVER"
+  },
+  {
+    "month": "2026-08",
+    "category": "Travel",
+    "spend": 18731.89,
+    "budget": 6000.0,
+    "ratio": 3.12,
+    "status": "OVER"
+  },
+  {
+    "month": "2026-08",
+    "category": "Utilities",
+    "spend": 5222.52,
+    "budget": 4000.0,
+    "ratio": 1.31,
+    "status": "OVER"
+  }
+]

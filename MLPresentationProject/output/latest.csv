@@ -1,0 +1,124 @@
+merchant,description,amount,date,text,day_of_week,category,is_outlier
+Cafe Coffee Day,Cafe Coffee Day,402.38,2026-07-21,cafe coffee day cafe coffee day,1,Food & Dining,False
+Steam,Steam,1119.74,2026-07-20,steam steam,0,Entertainment,False
+IndianOil Petrol,IndianOil Petrol ORDER-56938,742.44,2026-07-18,indianoil petrol indianoil petrol order-56938,5,Transport,False
+Cafe Coffee Day,Cafe Coffee Day PAYMENT 7847,805.71,2026-08-03,cafe coffee day cafe coffee day payment 7847,0,Food & Dining,False
+Whole Foods,Whole Foods INV-82338,3059.6,2026-07-24,whole foods whole foods inv-82338,4,Groceries,False
+Reliance Fresh,Reliance Fresh PAYMENT 6599,1581.13,2026-08-04,reliance fresh reliance fresh payment 6599,1,Groceries,False
+More Supermarket,More Supermarket TXN-38059,1676.31,2026-08-13,more supermarket more supermarket txn-38059,3,Groceries,False
+Ola,Ola REF#73534,390.58,2026-08-04,ola ola ref#73534,1,Transport,False
+Swiggy,Swiggy,592.89,2026-08-04,swiggy swiggy,1,Food & Dining,False
+DMart,DMart,1644.17,2026-08-08,dmart dmart,5,Groceries,False
+Zomato,Zomato *56145,1800.0,2026-08-07,zomato zomato *56145,4,Food & Dining,False
+Rapido,Rapido,468.82,2026-08-15,rapido rapido,5,Transport,False
+Playstation Store,Playstation Store TXN-10828,837.65,2026-08-08,playstation store playstation store txn-10828,5,Entertainment,False
+Uber,Uber REF#95709,331.26,2026-08-14,uber uber ref#95709,4,Transport,False
+BSNL Broadband,BSNL Broadband ORDER-67200,1164.07,2026-07-19,bsnl broadband bsnl broadband order-67200,6,Utilities,False
+Playstation Store,Playstation Store,1006.4,2026-07-21,playstation store playstation store,1,Entertainment,False
+Amazon,Amazon *75207,1060.97,2026-08-10,amazon amazon *75207,0,Shopping,False
+Playstation Store,Playstation Store INV-45998,1445.64,2026-07-27,playstation store playstation store inv-45998,0,Entertainment,False
+Electricity Board,Electricity Board ORDER-12367,685.1,2026-07-31,electricity board electricity board order-12367,4,Utilities,False
+Metro Card,Metro Card ORDER-8052,201.26,2026-08-07,metro card metro card order-8052,4,Transport,False
+Local Restaurant,Local Restaurant,876.45,2026-08-04,local restaurant local restaurant,1,Food & Dining,False
+Zomato,Zomato REF#3057,177.93,2026-08-07,zomato zomato ref#3057,4,Food & Dining,False
+McDonalds,McDonalds,1800.0,2026-08-05,mcdonalds mcdonalds,2,Food & Dining,False
+BookMyShow,BookMyShow,435.17,2026-07-21,bookmyshow bookmyshow,1,Entertainment,False
+YouTube Premium,YouTube Premium ORDER-21905,506.9,2026-08-01,youtube premium youtube premium order-21905,5,Subscriptions,False
+Ola,Ola TXN-56529,227.83,2026-08-14,ola ola txn-56529,4,Transport,False
+Cafe Coffee Day,Cafe Coffee Day REF#89585,988.98,2026-07-30,cafe coffee day cafe coffee day ref#89585,3,Food & Dining,False
+Hostel Rent,Hostel Rent,8000.0,2026-07-21,hostel rent hostel rent,1,Rent,False
+Myntra,Myntra,945.63,2026-07-17,myntra myntra,4,Shopping,False
+Dominos,Dominos,466.88,2026-07-21,dominos dominos,1,Food & Dining,False
+Metro Card,Metro Card TXN-90604,522.48,2026-08-16,metro card metro card txn-90604,6,Transport,False
+MakeMyTrip,MakeMyTrip,18731.89,2026-08-06,makemytrip makemytrip,3,Travel,False
+Amazon Prime,Amazon Prime,415.47,2026-08-10,amazon prime amazon prime,0,Subscriptions,False
+Rapido,Rapido PAYMENT 83237,457.89,2026-07-20,rapido rapido payment 83237,0,Transport,False
+Local Restaurant,Local Restaurant,542.35,2026-07-23,local restaurant local restaurant,3,Food & Dining,False
+Jio Recharge,Jio Recharge,1343.4,2026-07-20,jio recharge jio recharge,0,Utilities,False
+Reliance Fresh,Reliance Fresh,1299.98,2026-07-28,reliance fresh reliance fresh,1,Groceries,False
+Dominos,Dominos,379.86,2026-07-29,dominos dominos,2,Food & Dining,False
+McDonalds,McDonalds,542.61,2026-07-28,mcdonalds mcdonalds,1,Food & Dining,False
+Rapido,Rapido,254.51,2026-07-31,rapido rapido,4,Transport,False
+Whole Foods,Whole Foods,1259.68,2026-08-09,whole foods whole foods,6,Groceries,False
+Practo,Practo,1138.89,2026-07-22,practo practo,2,Health,False
+PG Rent,PG Rent TXN-90548,8206.85,2026-07-28,pg rent pg rent txn-90548,1,Rent,False
+BigBasket,BigBasket REF#84368,1386.91,2026-08-02,bigbasket bigbasket ref#84368,6,Groceries,False
+Nykaa,Nykaa *48164,2891.78,2026-07-25,nykaa nykaa *48164,5,Shopping,False
+Dominos,Dominos *71084,659.75,2026-07-24,dominos dominos *71084,4,Food & Dining,False
+Swiggy,Swiggy *99494,1602.24,2026-07-24,swiggy swiggy *99494,4,Food & Dining,False
+PVR Cinemas,PVR Cinemas PAYMENT 97076,698.4,2026-08-12,pvr cinemas pvr cinemas payment 97076,2,Entertainment,False
+McDonalds,McDonalds,309.07,2026-08-01,mcdonalds mcdonalds,5,Food & Dining,False
+BigBasket,BigBasket,1402.87,2026-07-25,bigbasket bigbasket,5,Groceries,False
+Electricity Board,Electricity Board PAYMENT 94881,760.05,2026-07-28,electricity board electricity board payment 94881,1,Utilities,False
+Hostel Rent,Hostel Rent,8000.0,2026-07-28,hostel rent hostel rent,1,Rent,False
+Rapido,Rapido TXN-63362,202.32,2026-07-27,rapido rapido txn-63362,0,Transport,False
+Amazon Prime,Amazon Prime ORDER-62945,233.42,2026-08-12,amazon prime amazon prime order-62945,2,Subscriptions,False
+Local Restaurant,Local Restaurant,1123.41,2026-08-06,local restaurant local restaurant,3,Food & Dining,False
+Cafe Coffee Day,Cafe Coffee Day TXN-62756,476.48,2026-08-08,cafe coffee day cafe coffee day txn-62756,5,Food & Dining,False
+Rapido,Rapido REF#11470,113.11,2026-08-06,rapido rapido ref#11470,3,Transport,False
+Local Bookstore,Local Bookstore PAYMENT 52710,606.05,2026-07-29,local bookstore local bookstore payment 52710,2,Stationery,False
+Whole Foods,Whole Foods,1118.05,2026-07-22,whole foods whole foods,2,Groceries,False
+BSNL Broadband,BSNL Broadband INV-19259,1499.86,2026-07-31,bsnl broadband bsnl broadband inv-19259,4,Utilities,False
+Water Utility,Water Utility,2390.51,2026-08-01,water utility water utility,5,Utilities,False
+Metro Card,Metro Card ORDER-95306,476.93,2026-07-17,metro card metro card order-95306,4,Transport,False
+Ola,Ola TXN-56960,94.88,2026-08-15,ola ola txn-56960,5,Transport,False
+Zomato,Zomato,681.3,2026-08-13,zomato zomato,3,Food & Dining,False
+Cafe Coffee Day,Cafe Coffee Day,642.39,2026-07-24,cafe coffee day cafe coffee day,4,Food & Dining,False
+Uber,Uber,289.89,2026-07-21,uber uber,1,Transport,False
+Uber,Uber *55232,353.64,2026-08-04,uber uber *55232,1,Transport,False
+Netflix,Netflix *20001,658.62,2026-07-21,netflix netflix *20001,1,Subscriptions,False
+More Supermarket,More Supermarket,1167.55,2026-07-31,more supermarket more supermarket,4,Groceries,False
+Steam,Steam TXN-62161,325.98,2026-07-22,steam steam txn-62161,2,Entertainment,False
+More Supermarket,More Supermarket REF#89534,2729.62,2026-07-18,more supermarket more supermarket ref#89534,5,Groceries,False
+Ola,Ola,406.46,2026-08-11,ola ola,1,Transport,False
+Local Restaurant,Local Restaurant ORDER-66647,612.15,2026-07-18,local restaurant local restaurant order-66647,5,Food & Dining,False
+DMart,DMart,1303.04,2026-08-14,dmart dmart,4,Groceries,False
+Classmate,Classmate *26236,1406.96,2026-08-05,classmate classmate *26236,2,Stationery,False
+Uber,Uber PAYMENT 66652,779.55,2026-08-03,uber uber payment 66652,0,Transport,False
+H&M,H&M REF#73436,2635.72,2026-08-14,h&m h&m ref#73436,4,Shopping,False
+Local Restaurant,Local Restaurant,288.18,2026-07-31,local restaurant local restaurant,4,Food & Dining,False
+IndianOil Petrol,IndianOil Petrol INV-31641,405.63,2026-07-19,indianoil petrol indianoil petrol inv-31641,6,Transport,False
+Swiggy,Swiggy ORDER-20343,654.06,2026-07-26,swiggy swiggy order-20343,6,Food & Dining,False
+BSNL Broadband,BSNL Broadband TXN-33275,2313.56,2026-07-28,bsnl broadband bsnl broadband txn-33275,1,Utilities,False
+WH Smith,WH Smith,1186.21,2026-07-24,wh smith wh smith,4,Stationery,False
+Rapido,Rapido TXN-21263,288.74,2026-08-07,rapido rapido txn-21263,4,Transport,False
+Flipkart Stationery,Flipkart Stationery,657.48,2026-07-29,flipkart stationery flipkart stationery,2,Stationery,False
+Zomato,Zomato,305.35,2026-08-09,zomato zomato,6,Food & Dining,False
+Metro Card,Metro Card,147.08,2026-08-08,metro card metro card,5,Transport,False
+Gas Cylinder,Gas Cylinder ORDER-14891,1347.63,2026-08-02,gas cylinder gas cylinder order-14891,6,Utilities,False
+Playstation Store,Playstation Store,556.66,2026-08-14,playstation store playstation store,4,Entertainment,False
+Reliance Fresh,Reliance Fresh TXN-35547,2767.11,2026-08-10,reliance fresh reliance fresh txn-35547,0,Groceries,False
+Steam,Steam INV-33996,264.38,2026-08-13,steam steam inv-33996,3,Entertainment,False
+Uber,Uber *64929,400.36,2026-08-02,uber uber *64929,6,Transport,False
+Reliance Fresh,Reliance Fresh INV-24131,1386.87,2026-07-18,reliance fresh reliance fresh inv-24131,5,Groceries,False
+Whole Foods,Whole Foods,2021.79,2026-08-16,whole foods whole foods,6,Groceries,False
+Swiggy,Swiggy,354.82,2026-08-05,swiggy swiggy,2,Food & Dining,False
+DMart,DMart REF#72591,980.06,2026-07-17,dmart dmart ref#72591,4,Groceries,False
+Amazon Prime,Amazon Prime TXN-5763,478.71,2026-08-05,amazon prime amazon prime txn-5763,2,Subscriptions,False
+Local Restaurant,Local Restaurant,1059.58,2026-07-20,local restaurant local restaurant,0,Food & Dining,False
+Dominos,Dominos INV-40077,1800.0,2026-07-26,dominos dominos inv-40077,6,Food & Dining,False
+Dominos,Dominos,628.03,2026-07-31,dominos dominos,4,Food & Dining,False
+Cafe Coffee Day,Cafe Coffee Day,674.97,2026-07-17,cafe coffee day cafe coffee day,4,Food & Dining,False
+H&M,H&M TXN-67501,2686.31,2026-08-03,h&m h&m txn-67501,0,Shopping,False
+IRCTC,IRCTC INV-85310,5542.01,2026-07-20,irctc irctc inv-85310,0,Travel,False
+IndianOil Petrol,IndianOil Petrol,406.41,2026-08-12,indianoil petrol indianoil petrol,2,Transport,False
+Dominos,Dominos REF#26134,271.6,2026-07-24,dominos dominos ref#26134,4,Food & Dining,False
+Amazon,Amazon TXN-53144,2059.69,2026-08-06,amazon amazon txn-53144,3,Shopping,False
+Amazon Stationery,Amazon Stationery,1365.81,2026-08-12,amazon stationery amazon stationery,2,Stationery,False
+H&M,H&M,3304.7,2026-07-25,h&m h&m,5,Shopping,False
+Flipkart,Flipkart *87989,6629.77,2026-07-29,flipkart flipkart *87989,2,Shopping,False
+BSNL Broadband,BSNL Broadband REF#6029,1484.38,2026-08-08,bsnl broadband bsnl broadband ref#6029,5,Utilities,False
+Zomato,Zomato,458.52,2026-07-31,zomato zomato,4,Food & Dining,False
+Zomato,Zomato,1800.0,2026-08-03,zomato zomato,0,Food & Dining,False
+Netflix,Netflix,453.88,2026-07-23,netflix netflix,3,Subscriptions,False
+McDonalds,McDonalds REF#65998,173.04,2026-08-01,mcdonalds mcdonalds ref#65998,5,Food & Dining,False
+Local Restaurant,Local Restaurant,227.91,2026-08-10,local restaurant local restaurant,0,Food & Dining,False
+Whole Foods,Whole Foods,1365.13,2026-07-29,whole foods whole foods,2,Groceries,False
+McDonalds,McDonalds TXN-11173,694.93,2026-08-06,mcdonalds mcdonalds txn-11173,3,Food & Dining,False
+Metro Card,Metro Card TXN-86285,150.72,2026-08-10,metro card metro card txn-86285,0,Transport,False
+Playstation Store,Playstation Store PAYMENT 42847,905.0,2026-08-05,playstation store playstation store payment 42847,2,Entertainment,False
+Ola,Ola INV-81195,159.54,2026-07-26,ola ola inv-81195,6,Transport,False
+Whole Foods,Whole Foods INV-67337,1281.24,2026-08-12,whole foods whole foods inv-67337,2,Groceries,False
+BigBasket,BigBasket ORDER-9999,9500.0,2026-08-13,bigbasket bigbasket order-9999,3,Groceries,True
+Amazon,Amazon ORDER-8888,48000.0,2026-08-15,amazon amazon order-8888,5,Shopping,True
+Swiggy,Swiggy ORDER-7777,6200.0,2026-08-16,swiggy swiggy order-7777,6,Food & Dining,True

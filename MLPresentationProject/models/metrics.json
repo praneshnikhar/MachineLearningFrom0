@@ -1,0 +1,20 @@
+{
+  "accuracy": 1.0,
+  "macro_f1": 1.0,
+  "classes": [
+    "Entertainment",
+    "Food & Dining",
+    "Groceries",
+    "Health",
+    "Rent",
+    "Shopping",
+    "Stationery",
+    "Subscriptions",
+    "Transport",
+    "Travel",
+    "Utilities",
+    "accuracy",
+    "macro avg",
+    "weighted avg"
+  ]
+}
